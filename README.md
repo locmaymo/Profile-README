@@ -12,7 +12,8 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelehub&layout=compact&theme=tokyonight" alt="languages" height="177"> -->
 <!-- </p> -->
 <!--  skill badge 技能徽章 -->
-💪 I'm currently learning
+<h2>💪 I'm currently learning</h2>
+  <br/>
 <!-- 💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -52,7 +53,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
  -->
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,pr,idea,css,figma,heroku,html,laravel,nginx,vscode,xd,selenium,node" /><br>
+<img src="https://skillicons.dev/icons?i=ps,pr,idea,css,figma,heroku,html,laravel,nginx,vscode,xd,selenium,nodejs,bootstrap" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
