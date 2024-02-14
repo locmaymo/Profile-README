@@ -3,16 +3,16 @@
   <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/lelehub/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/locmaymo/count.svg" alt="" /></td>
   </tr>
 </table>
 <!-- <p align="left"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lelehub&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=locmaymo&show_icons=true&theme=transparent" alt="my github stats" width="450"/>
   <br/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelehub&layout=compact&theme=tokyonight" alt="languages" height="177"> -->
 <!-- </p> -->
 <!--  skill badge 技能徽章 -->
-  💪 I'm currently learning
+💪 I'm currently learning
 <!-- 💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
